@@ -8,5 +8,9 @@
         <page name='5 - functions &amp; closures'/>
         <page name='6 - Mutability'/>
         <page name='7 - NonMutating'/>
+        <page name='8 - Mixing Value Types in Reference Types'/>
+        <page name='9 - Mixing Reference Types in Value Types'/>
+        <page name='10 - Pointers'/>
+        <page name='10 - Pointers2'/>
     </pages>
 </playground>

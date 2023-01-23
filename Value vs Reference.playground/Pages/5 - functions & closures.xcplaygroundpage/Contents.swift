@@ -8,5 +8,4 @@ func function() -> Void { print("Test") }
 closure()
 function()
 
-
 //: [Next](@next)
